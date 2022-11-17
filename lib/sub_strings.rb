@@ -2,10 +2,9 @@ dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","o
 
 def sub_strings(string, dictionary)
   result = Hash.new(0)
-  string = string.downcase
 
   dictionary.each do |word| 
-    if(string.include?(word))
+    if(string.downcase.include?(word))
       result[word] += 1
     end
   end
