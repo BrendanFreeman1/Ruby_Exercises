@@ -30,8 +30,12 @@ def contain_number(lower, upper, current)
 end
 
 def adjust_shift(shift)
-  if(shift < 0) then return (shift.abs % 26) * -1 else return shift % 26 end
+  if(shift < 0) 
+     return (shift.abs % 26) * -1 
+  end
+  
+  return shift % 26
 end
 
 
-puts caesar_cipher("hello world", -87)
+puts caesar_cipher("What a string!", -87)
