@@ -13,12 +13,12 @@
 <p>letter some fixed number of positions down the alphabet.</p>
 <p>that was found in the original string and how many times it was found.</p>
 
-<h3>Stock Picker/h3>
+<h3>Stock Picker</h3>
 <p>Implement a method #stock_picker that takes in an array of stock prices, one for each hypothetical day.</p>
 <p>It should return a pair of days representing the best day to buy and the best day to sell. </p>
 <p>Days start at 0. You need to buy before you can sell</p>
 
-<h3>Bubble Sort/h3>
+<h3>Bubble Sort</h3>
 <p>Build a method #bubble_sort that takes an array and returns a sorted array.</p>
 <p>using the bubble sort method where each element is compared to the one next</p>
 <p>to it and they are swapped if the one on the left is larger than the one on the right.</p>
