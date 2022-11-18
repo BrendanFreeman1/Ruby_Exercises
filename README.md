@@ -3,9 +3,9 @@
 <h2>Exersies from the Odin Project Ruby Course</h2>
 
 <h3>Caesar Cipher</h3>
-<p>Implement a caesar cipher that takes in a string and the shift factor and then outputs the modified string.</p>
-<p>A caesar cipher is a type of substitution cipher in which each letter in the plaintext is replaced by a</p>
-<p>letter some fixed number of positions down the alphabet.</p>
+Implement a caesar cipher that takes in a string and the shift factor and then outputs the modified string.
+A caesar cipher is a type of substitution cipher in which each letter in the plaintext is replaced by a
+letter some fixed number of positions down the alphabet.
 
 <h3>Sub Strings</h3>
 <p>Implement a method #substrings that takes a word as the first argument.</p>
