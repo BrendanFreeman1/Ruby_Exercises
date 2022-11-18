@@ -1,6 +1,6 @@
-#Ruby Exercises
+<h1>Ruby Exercises</h1>
 
-<p>Exersies from the Odin Project Ruby Course</p>
+<h2>Exersies from the Odin Project Ruby Course</h2>
 
 <h3>Caesar Cipher</h3>
 <p>Implement a caesar cipher that takes in a string and the shift factor and then outputs the modified string.</p>
